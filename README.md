@@ -1,1 +1,2 @@
 # ks-programing
+*.ks lauguage
