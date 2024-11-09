@@ -1,5 +1,5 @@
 {
-    "name": "ks-programing",
+    "name": "@Studio-Moremi/ks-programing",
     "version": "1.0.0",
     "description": "this is ks, kson programing lauguage.",    
     "main": "index.js",
